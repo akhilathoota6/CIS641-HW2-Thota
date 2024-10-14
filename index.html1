@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akhila Thota's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <img src="C:\Users\akhil\OneDrive\Desktop\Portfolio\New folder".jpg" alt="Akhila Thota's Photo" class="profile-img">
+        <h1>THOTA AKHILA</h1>
+        <p>
+            <i class="fas fa-envelope"></i> akhilathota6@gmail.com | 
+            <i class="fas fa-phone"></i> 9182876813 | 
+            <i class="fas fa-map-marker-alt"></i> Andhra Pradesh, India
+        </p>
+    </header>
+
+    <section id="profile">
+        <h2>PROFILE</h2>
+        <p>To enhance my technical knowledge and bring out my best, I'm seeking a data analyst position to develop my skills in a practical manner. Analyzing big datasets to extract huge insights. I aim to excel in a dynamic environment by enhancing my skills and delivering innovative solutions.</p>
+    </section>
+
+    <section id="education">
+        <h2>EDUCATION</h2>
+        <ul>
+            <li>B.E (CSE) - Jansons Institute of Technology (CGPA - 8.5) 2020 – 2024</li>
+            <li>Intermediate - Narayana Junior College (CGPA - 9.2) 2018 – 2020</li>
+            <li>Schooling - Vignan Kerala English Medium School (CGPA - 9.5) 2017 – 2018</li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>PERSONAL SKILLS</h2>
+        <ul>
+            <li>I excel at problem solving and learning quickly.</li>
+            <li>I have strong communication skills and can interact diplomatically.</li>
+            <li>I am a team facilitator and leader with a friendly and approachable demeanor.</li>
+        </ul>
+    </section>
+
+    <section id="software">
+        <h2>SOFTWARE EXPOSURE</h2>
+        <ul>
+            <li>Programming Languages: Python, Basics of Java</li>
+            <li>Database Technologies: MySQL, Tableau</li>
+            <li>Web Technologies: HTML, CSS</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>PROJECTS</h2>
+        <ul>
+            <li><strong>MedShop Management:</strong> This project provides an easy way for the pharmacist to interact with the medicine details and to update as per the new stocks.</li>
+            <li><strong>Enhancing Accessibility for the Visually Impaired:</strong> A computer vision model to assist visually impaired individuals by offering real-time support through wearable or smartphone cameras.</li>
+        </ul>
+    </section>
+
+    <section id="languages">
+        <h2>LANGUAGES</h2>
+        <p>English, Telugu, Hindi, Tamil</p>
+    </section>
+
+    <section id="interests">
+        <h2>INTERESTS</h2>
+        <ul>
+            <li>My hobbies are listening to music and having fun with friends, photography.</li>
+            <li>My technical skills include problem solving, HTML, Python, SQL.</li>
+            <li>I am passionate about grabbing new concepts to learn.</li>
+        </ul>
+    </section>
+
+    <section id="technical-background">
+        <h2>TECHNICAL BACKGROUND</h2>
+        <p>I am good at Python and web development. I have done a project on machine learning during my bachelor's.</p>
+    </section>
+
+    <section id="activities">
+        <h2>CO-CURRICULAR AND EXTRA CURRICULAR ACTIVITIES</h2>
+        <ul>
+            <li>Participated in JIT-UTSAV.</li>
+            <li>Organized and coordinated the symposium event.</li>
+            <li>Participated in various volunteer programs during my time on campus.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Akhila Thota. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
+
