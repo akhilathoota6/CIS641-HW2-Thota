@@ -1,10 +1,10 @@
 body {
-    background-color: #e6f7ff; /* Light blue background */
+    background-color: #187caa; /* Light blue background */
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-    color: #333; /* Dark text color */
+    color: #29261a; /* Dark text color */
 }
 
 header {
@@ -40,68 +40,39 @@ nav a:hover {
     color: white; /* White text on hover */
 }
 
-section {
-    padding: 40px;
-    text-align: left;
-    max-width: 800px;
-    margin: 20px auto; /* Center the sections */
-    background-color: #ffffff; /* White background for sections */
-    border-radius: 8px; /* Rounded corners for sections */
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15); /* Subtle shadow */
-}
-
-h1 {
-    font-size: 36px;
-    color: #ff6f61; /* Change header color */
-}
-
-h2 {
-    color: #ff6f61;
-}
-
-p {
-    font-size: 18px;
-}
-
-.section-title {
-    border-bottom: 2px solid #ff6f61;
-    padding-bottom: 10px;
-}
-
-/* Term Project Section Styles */
-#term-project {
-    background-color: #e9f5fb; /* Light blue background for the term project section */
+.card {
+    background: white; /* White background for cards */
+    border-radius: 10px;
     padding: 20px;
-    border-radius: 8px;
-    margin: 20px 0;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px; /* Margin between cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Shadow effect for depth */
 }
 
-#term-project h2 {
-    color: #333;
+.icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Space between items */
+    margin-top: 20px; /* Margin above the grid */
 }
 
-#term-project p {
-    color: #555;
-    line-height: 1.6;
+.icon-item {
+    text-align: center; /* Center align text */
+    color: #333; /* Dark text color */
 }
 
-/* Smooth scrolling effect */
-html {
-    scroll-behavior: smooth;
+.icon-item i {
+    font-size: 40px; /* Adjust icon size */
+    color: #ff6f61; /* Icon color */
+    margin-bottom: 10px; /* Space below the icon */
 }
 
-/* Highlight the active section */
-nav a.active {
-    background-color: #ff6f61; /* Bright background for active link */
-    color: white;
-}
+.icon-item p {
+   
 
-/* Icons Style */
-.icon {
-    font-size: 20px; /* Adjust icon size */
-    color: #333; /* Icon color */
-    margin: 0 5px; /* Space around icons */
-}
+   
+
+
+
+
 
 
